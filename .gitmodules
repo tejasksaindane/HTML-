@@ -1,3 +1,9 @@
 [submodule "starbucks-landingpage"]
 	path = starbucks-landingpage
 	url = https://github.com/tejasksaindane/starbucks-landingpage.git
+[submodule "glassmorphism"]
+	path = glassmorphism
+	url = https://github.com/tejasksaindane/glassmorphism.git
+[submodule "marketing.github.io"]
+	path = marketing.github.io
+	url = https://github.com/tejasksaindane/marketing.github.io.git
